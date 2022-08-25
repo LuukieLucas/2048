@@ -8,5 +8,5 @@ You can even use it on websites via the source code.
 ## Creator
 LuukieLucas
 
-##Credit Conditions
+## Credit Conditions
 Credit me, if used on any published media.
